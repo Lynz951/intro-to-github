@@ -6,3 +6,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+## This is a Task List
+
+- [x] This is a complete item
+- [ ] This is an incomplete item
